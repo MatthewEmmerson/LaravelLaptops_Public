@@ -1,0 +1,19 @@
+[
+    { "id": "1", "name": "ThinkPad" },
+    { "id": "2", "name": "IdeaPad" },
+    { "id": "3", "name": "Yoga" },
+    { "id": "4", "name": "Macbook" },
+    { "id": "5", "name": "Zephyrus" },
+    { "id": "6", "name": "Vivobook" },
+    { "id": "7", "name": "Oryx Pro" },
+    { "id": "8", "name": "Galaga Pro" },
+    { "id": "9", "name": "Pangolin" },
+    { "id": "10", "name": "Chromebook" },
+    { "id": "11", "name": "Aspire" },
+    { "id": "12", "name": "Chromebook" },
+    { "id": "13", "name": "Probook" },
+    { "id": "14", "name": "Inspiron" },
+    { "id": "15", "name": "XPS" },
+    { "id": "16", "name": "Alienware" },
+    { "id": "17", "name": "InfinityBook" }
+]

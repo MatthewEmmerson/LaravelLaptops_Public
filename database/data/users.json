@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name": "user_one",
+        "email": "user_one@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "2",
+        "name": "user_two",
+        "email": "user_two@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "3",
+        "name": "user_three",
+        "email": "user_three@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "4",
+        "name": "user_four",
+        "email": "user_four@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "5",
+        "name": "user_five",
+        "email": "user_five@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "6",
+        "name": "user_six",
+        "email": "user_six@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "7",
+        "name": "user_seven",
+        "email": "user_seven@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "8",
+        "name": "user_eight",
+        "email": "user_eight@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "9",
+        "name": "user_nine",
+        "email": "user_nine@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "10",
+        "name": "user_ten",
+        "email": "user_ten@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": false
+    },
+    {
+        "id": "11",
+        "name": "admin_user",
+        "email": "admin@email.com",
+        "password": "$2y$10$/t9ac/nMHJnOWox3dHIGxO19pE2v5tZEyLQ1WnxPwe4jGZzeLh1Z.",
+        "remember_token": "NULL",
+        "admin": true
+    }
+]
